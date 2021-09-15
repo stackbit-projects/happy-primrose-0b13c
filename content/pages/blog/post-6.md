@@ -9,7 +9,7 @@ excerpt: >-
   tìm hiểu giải pháp tiến tới kết thúc nó trong tương lại.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-image_position: top
+image_position: right
 seo:
   title: Post 6 - test
   description: ''
