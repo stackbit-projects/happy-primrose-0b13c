@@ -16,9 +16,15 @@ seo:
   extra: []
 layout: post
 ---
-## Lorem ipsum
+## Chào mừng bạn đến với H2 đầu tiên
+
+Đây là nội dung H2 mà chúng tôi gửi tới bạn
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+*   Lorem ipsum
+*   dolor sit amet
+
+## Đây là h2 thứ 2 nè
+
+![](/images/234340476\_353505449826553\_6434428227719092017\_n.jpg)
