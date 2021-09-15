@@ -5,7 +5,9 @@ date: '2021-09-15'
 categories:
   - content/data/categories/category-8tggpel9c.json
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  Bắt đầu là điều rất quan trọng. Chúng ta cố gắng thực hiện 1 việc và bắt đầu
+  tìm hiểu giải pháp tiến tới kết thúc nó trong tương lại.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
