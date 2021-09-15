@@ -17,7 +17,7 @@ seo:
   extra: []
 layout: post
 author: content/data/team/person-mzhzc120s.json
-image: /images/234340476_353505449826553_6434428227719092017_n-e2c2d65f.jpg
+image: /images/about-2.jpg
 thumb_image: /images/234340476_353505449826553_6434428227719092017_n-e2c2d65f.jpg
 ---
 ## Chào mừng bạn đến với H2 đầu tiên
