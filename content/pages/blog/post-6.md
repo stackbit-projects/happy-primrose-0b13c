@@ -1,6 +1,6 @@
 ---
 title: Bài viết đầu tiên để test sản blog
-subtitle: lorem-ipsum
+subtitle: Bài viết về chủ đề blog
 date: '2021-09-15'
 categories:
   - content/data/categories/category-8tggpel9c.json
