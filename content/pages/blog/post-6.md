@@ -2,8 +2,7 @@
 title: Bài viết đầu tiên để test sản blog
 subtitle: Bài viết về chủ đề blog
 date: '2021-09-15'
-categories:
-  - content/data/categories/category-8tggpel9c.json
+categories: []
 tags: []
 excerpt: >-
   Bắt đầu là điều rất quan trọng. Chúng ta cố gắng thực hiện 1 việc và bắt đầu
