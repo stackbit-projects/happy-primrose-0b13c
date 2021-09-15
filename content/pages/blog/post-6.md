@@ -9,7 +9,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 seo:
-  title: ''
+  title: Post 6 - test
   description: ''
   robots: []
   extra: []
