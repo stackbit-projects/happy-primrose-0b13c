@@ -17,6 +17,7 @@ seo:
   robots: []
   extra: []
 layout: post
+author: content/data/team/person-mzhzc120s.json
 ---
 ## Chào mừng bạn đến với H2 đầu tiên
 
